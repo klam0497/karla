@@ -7,3 +7,4 @@ C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.csproj.CoreCompileInpu
 C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.exe
 C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.pdb
 C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.Form1.resources
+C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.csprojAssemblyReference.cache
