@@ -1,0 +1,9 @@
+C:\Users\estudiante\source\repos\demo\demo\bin\Debug\demo.exe.config
+C:\Users\estudiante\source\repos\demo\demo\bin\Debug\demo.exe
+C:\Users\estudiante\source\repos\demo\demo\bin\Debug\demo.pdb
+C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.exe
+C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.pdb
+C:\Users\estudiante\source\repos\demo\demo\obj\Debug\demo.Form1.resources
